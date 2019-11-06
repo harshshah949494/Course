@@ -58,10 +58,10 @@ The following schedule is subject to change.
 | Oct  21  | [Software processes](https://docs.google.com/presentation/d/1OJP_dF9H_luCqCI6l_V0Pyc9D3LogfsDVRYtm1uEjY8/edit#slide=id.p) | | [Process: Milestone](Project/PROCESS.md)
 | Oct  23  | Sprint planning workshop
 | Oct  28  | Project Workday
-| Oct  30  | Whitebox testing (makeup)
+| Oct  30  | [Whitebox testing (makeup)](https://github.com/CSC-DevOps/Course/blob/master/Readings/class18testing.pdf)
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
 | Nov  4   | Project Workday
-| Nov  6   | Continuous Integration | | [HW3](HW/HW-Reflection.md)
+| Nov  6   | [Continuous Integration](https://docs.google.com/presentation/d/1OumGaOWp9dNnxBci2_jwZwx8P282UTdDJi7tGFD4Gas/edit#slide=id.g6ad3d0b1f9_0_0) | | [HW3](HW/HW-Reflection.md)
 | Nov 11   | Ansible workshop
 | Nov 13   | Configuration Management
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
