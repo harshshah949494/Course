@@ -63,11 +63,11 @@ The following schedule is subject to change.
 | Nov  4   | Project Workday
 | Nov  6   | [Continuous Integration](https://docs.google.com/presentation/d/1OumGaOWp9dNnxBci2_jwZwx8P282UTdDJi7tGFD4Gas/edit#slide=id.g6ad3d0b1f9_0_0) | | [HW3](HW/HW-Reflection.md)
 | Nov 11   | Ansible workshop
-| Nov 13   | Configuration Management
+| Nov 13   | Configuration Management | | [Deploy: Milestone](Project/DEPLOY.md)
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
-| Nov 18   | 
-| Nov 20   | 
-| Nov 25 | 
+| Nov 18   | Interviews               | | [HW4](HW/HW5.md)
+| Nov 20   | Interviews workshop
+| Nov 25   | Productivity 
 | Nov 27 | No class | 
 | <tr><th colspan=4>🎬 &nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;  💯</th></tr> 
 | Dec 2  |  |  |
