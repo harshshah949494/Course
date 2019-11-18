@@ -62,8 +62,8 @@ The following schedule is subject to change.
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
 | Nov  4   | Project Workday
 | Nov  6   | [Continuous Integration](https://docs.google.com/presentation/d/1OumGaOWp9dNnxBci2_jwZwx8P282UTdDJi7tGFD4Gas/edit#slide=id.g6ad3d0b1f9_0_0) | | [HW3](HW/HW-Reflection.md)
-| Nov 11   | Ansible workshop
-| Nov 13   | Configuration Management | | [Deploy: Milestone](Project/DEPLOY.md)
+| Nov 11   | [Ansible workshop](https://github.com/CSC-510/Jenkins-Ansible)
+| Nov 13   | [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p) | | [Deploy: Milestone](Project/DEPLOY.md)
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
 | Nov 18   | Interviews               | | [HW4](HW/HW5.md)
 | Nov 20   | Interviews workshop
