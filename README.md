@@ -67,7 +67,7 @@ The following schedule is subject to change.
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
 | Nov 18   | Interviews               | | [HW4](HW/HW5.md)
 | Nov 20   | Interviews workshop
-| Nov 25   | Productivity 
+| Nov 25   | [Productivity](https://docs.google.com/presentation/d/1xOcZWB1_Swk-6j_i37WbxXIFY0kTtaQ3ctiP5p2pp1M/edit#slide=id.g13c62e42db_0_0) 
 | Nov 27 | No class | 
 | <tr><th colspan=4>🎬 &nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;  💯</th></tr> 
 | Dec 2  | [Demo](https://docs.google.com/spreadsheets/d/1tjDulwB530qP17txitTggwmCDquytUV5HVNYbFgY2HM/edit?folder=0BzraDEDPx5BcLUtxNWhCVGxJZ3M#gid=0) |  | [REPORT](Project/REPORT.md)
