@@ -70,10 +70,9 @@ The following schedule is subject to change.
 | Nov 25   | Productivity 
 | Nov 27 | No class | 
 | <tr><th colspan=4>🎬 &nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;  💯</th></tr> 
-| Dec 2  |  |  |
-| Dec 4  |  |  |
-| Dec 16 | Final Exam (8:00 am -- 11:00 am) | |
-
+| Dec 2  | [Demo](https://docs.google.com/spreadsheets/d/1tjDulwB530qP17txitTggwmCDquytUV5HVNYbFgY2HM/edit?folder=0BzraDEDPx5BcLUtxNWhCVGxJZ3M#gid=0) |  | [REPORT](Project/REPORT.md)
+| Dec 4  | [Demo](https://docs.google.com/spreadsheets/d/1tjDulwB530qP17txitTggwmCDquytUV5HVNYbFgY2HM/edit?folder=0BzraDEDPx5BcLUtxNWhCVGxJZ3M#gid=0) |  |
+| Dec 16 | Final Exam (8:00 am -- 11:00 am)
 
 
 
