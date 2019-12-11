@@ -81,7 +81,6 @@ The following is an example exam.
 <br/>
 
 
-<p style="page-break-after:always;"></p>
 ### Implementation
 
 1) Measure the condition coverage of a code snippet. (10 points)
