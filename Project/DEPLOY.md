@@ -1,20 +1,20 @@
 # Milestone: DEPLOYMENT
 
-In the previous milestone, we implemented the services required for 3 use cases and implemented interaction with a bot. In this milestone, you will be demonstrating a fully deployed version of your bot for use in a Slack/Github/etc team.
+In the previous milestone, we implemented the services required for your use cases and implemented interaction with a bot. In this milestone, you will be demonstrating a fully deployed version of your bot for use in a Slack/Mattermost/Github/etc. environment.
 
 ### Deployment
 
-Using configuring management tools, you must fully provision and configure a remote environment for your bot. You should largely be able to reuse homework materials but adopted for your bot.
+Using a configuring management tool, you must fully provision and configure a remote environment for your bot. You should largely be able to reuse homework materials but adopted for your bot.
 
 In your README.md, document how these configuration management tools and deployment scripts should be run and make sure to include demonstrate running them in your screencast.
 
 ### Acceptance Testing
 
-For Slack bots, create a slack team and a TA user account, which TAs will be using for testing your deployed bot. For github bots, grant the necessary permissions for performing tasks on a demo repository.
+For your DevBots, create a test team and a TA user account, which TAs will be using for testing your deployed bot. For github bots, grant the necessary permissions for performing tasks on a demo repository. 
 
-Provide **acceptance test instructions** for TAs to evaluate your three use cases using the TA user account.
+Provide **login credentials** for TA.
 
-The acceptance tests should provide concrete instructions on what to actions to perform and verify on each step.
+Provide **acceptance test instructions** for TAs to evaluate your three use cases using the TA user account. The acceptance tests should provide concrete instructions on what to actions to perform and verify at each step.
 
 ##### Uptime Penalaties
 
@@ -26,19 +26,32 @@ If acceptance testing cannot be performed on a deployed manner and needs to be m
 
 ### Exploratory Testing and Code Inspection
 
-You must not hard-code interaction/mock data for your bots. TAs will perform additional exploratory testing and code inspection to verify bots perform as expected and handle edge cases and error in inputs. Failure to adhere to these instructions will result in a 0 for this milestone.
+You must not hard-code interaction/mock data for your bots. TAs will perform additional exploratory testing and code inspection to verify bots perform as expected and handle edge cases and error in inputs. 
 
-### Task Tracking and Screencasts
+**Failure to adhere to these instructions will result in a 0 for this milestone.**
 
-As before, you will be tracking your tasks and recording a screencast that demonstrates the deployment process and functioning use cases.
+### Bonus: Continuous Integration (CI) Server
+
+Create a jenkins server and build job that runs a build job for your bot, including running your integration tests. 
+
+CI can run in a local or hosted VM.
+
+To receive create, you must demonstate your CI working based on a build running from a triggered commit, and show build logs with passing integration tests.
+
+### Submit
+
+In your repository, create a new markdown file, DEPLOY.md, with descriptions about the following:
+
+* Deployment scripts
+* Acceptance tests
+* Final code
+* Optional bonus: Code and screencast for continuous integration server.
+
+Due Sunday, December 1st, before midnight.
 
 ### Evaluation
 
-Submit repo [here](https://docs.google.com/forms/d/e/1FAIpQLSfVamsvJn7COEQT1E3b8mYM8vH8w66rAtavWLW2F5FS7RSy2w/viewform?usp=sf_link)
-
-* Deployment scripts (25%)
-* Passing acceptance testing (40%)
-* Exploratory Testing and Code Inspection (25%)
-* Task Tracking and Screencasts (10%)
-
-Due Tuesday, November 28th, midnight.
+* Deployment scripts and screencast (25%)
+* Acceptance testing (40%)
+* Exploratory Testing and Code Inspection (30%)
+* Bonus: Continuous Integration Service (20%)

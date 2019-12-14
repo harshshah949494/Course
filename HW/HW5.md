@@ -15,15 +15,15 @@ Create an ansible playbook that is able to:
 
 * **Concepts (20 points)**:
 
-    * Why should developers use configuration management tools to manage their software programs? What can go wrong?
-    * Explain the difference bewteen continuous integration, continuous delivery, and continuous deployment, in your own words.
+    * Explain continuous integration. How is it used on a project?
+    * Why should developers use configuration management tools to manage their software programs? What can go wrong if they don't?
 
 ## Submission
 
-Submit your [repo link](https://docs.google.com/forms/d/e/1FAIpQLScBUOZO7S2tJdWowgzc1VzjvOgG-bHhIoKfZdQSCvYAl2jxoQ/viewform?usp=sf_link).
+Submit your [repo link](https://docs.google.com/forms/d/e/1FAIpQLScVABwfEuL1K170KXJJoy6JUdMrt0oQuf1VBSMZy9v8ktCczg/viewform?usp=sf_link).
 
 * README.md (which documents steps for running ansible and playbook).
 * Ansible playbook files
 * Screencast demo of performing setup, tasks, running app.
 
-Due, Friday, November 17th, midnight.
+Due, Monday, November 25th, before midnight.

@@ -22,7 +22,10 @@ Students are expected to gain practical exposure to tools, processes, and princi
 
 ### Office Hours
 
-TA:
+|TA|UnityId|Office Hours|
+|---|---|---|
+|Fahmid Morshed Fahid| ffahid |Mon, 12:00 am - 1:00 pm, EB2 1229B|
+|Yang Shi| yshi26 |Wed, 9:00 am - 10:00 am, EB2 1229B|
 
 ## Schedule
 
@@ -37,40 +40,39 @@ The following schedule is subject to change.
 | Sept 2 | Labor Day
 | Sept 4 | [REST apis](https://github.com/CSC-510/REST#introduction) | | [HW1](HW/HW1.md)
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
-| Sept 9  | Bots 
-| Sept 11 | Slack/Mattermost Bot + Rasa  
-| Sept 16 | Design patterns and architecture
-| Sept 18 | Design 
+| Sept 9  | [Bots](https://docs.google.com/presentation/d/1JClXhqNX8ufzmxoDpVPCLRDlqu4tUkvbJgwYICw70kM/edit)     | | [Design: Milestone](Project/DESIGN.md)
+| Sept 11 | [Mattermost Weather Bot](https://github.com/CSC-510/WeatherBot) 
+| Sept 16 | [Design and UX Methods](https://docs.google.com/presentation/d/1p7KIlIAO0baASfrmdXDdw4xCsRiVDLvuUsNy5GVfuWo/edit#slide=id.p)
+| Sept 18 | [Software Design](https://docs.google.com/presentation/d/1maQNf-PvZrx8lTEmyH9hvGhYduOK0UgqLqosyQQ4rt4/edit) 
 | <tr><th colspan=4>🚧 &nbsp;&nbsp;&nbsp;Code&nbsp;&nbsp;&nbsp; 🚧</th></tr>    |
-| Sept 23 | 
-| Sept 25 |   
-| Sept 30 | 
-| Oct  2  | 
+| Sept 23 | Design draft review
+| Sept 25 | [Architecture](https://docs.google.com/presentation/d/1maQNf-PvZrx8lTEmyH9hvGhYduOK0UgqLqosyQQ4rt4/edit)   
+| Sept 30 | [Software Metrics and Refactoring](https://docs.google.com/presentation/d/1pEGl_fwq_NYSXyWdmKYfRWXRvcXmWtV6wsP3wTZdr3A/edit)
+| Oct  2  | [Complexity workshop](https://github.com/CSC-510/Complexity) | | [HW2](HW/HW4.md)
 | <tr><th colspan=4>🧪&nbsp;&nbsp;&nbsp;Test&nbsp;&nbsp;&nbsp; ✅</th></tr>    |
-| Oct  7  | Web Basics; Integration testing with Selenium
-| Oct  9  | 
-| Oct  14  | 
-| Oct  16  | 
+| Oct  7  | [Introduction to Testing](https://docs.google.com/presentation/d/1jjyyvnwva1QJek8xGQDe4Dkb5Eza8L5k-RqmnDEWgao/edit)  | | [Bot: Milestone](Project/BOT.md)
+| Oct  9  | [Integration testing + Web Automation](https://github.com/CSC-510/IntegrationTesting); [Web Basics](https://docs.google.com/presentation/d/1fVB_Yao_FB3RUbQlqyQeLnILmzwKpHnG4cA9Tv6K330/edit)
+| Oct  14  | Project Workday
+| Oct  16  | [Unit Testing/Mocking services](https://github.com/CSC-510/Mocking)
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
-| Oct  21  |
-| Oct  23  |
-| Oct  28  |
-| Oct  30  |
+| Oct  21  | [Software processes](https://docs.google.com/presentation/d/1OJP_dF9H_luCqCI6l_V0Pyc9D3LogfsDVRYtm1uEjY8/edit#slide=id.p) | | [Process: Milestone](Project/PROCESS.md)
+| Oct  23  | Sprint planning workshop
+| Oct  28  | Project Workday
+| Oct  30  | [Whitebox testing (makeup)](https://github.com/CSC-DevOps/Course/blob/master/Readings/class18testing.pdf)
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
-| Nov  4   |
-| Nov  6   |
-| Nov 11   | 
-| Nov 13   | 
+| Nov  4   | Project Workday
+| Nov  6   | [Continuous Integration](https://docs.google.com/presentation/d/1OumGaOWp9dNnxBci2_jwZwx8P282UTdDJi7tGFD4Gas/edit#slide=id.g6ad3d0b1f9_0_0) | | [HW3](HW/HW-Reflection.md)
+| Nov 11   | [Ansible workshop](https://github.com/CSC-510/Jenkins-Ansible)
+| Nov 13   | [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p) | | [Deploy: Milestone](Project/DEPLOY.md)
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
-| Nov 18   |
-| Nov 20   |
-| Nov 25 |
+| Nov 18   | Interviews               | | [HW4](HW/HW5.md)
+| Nov 20   | Interviews workshop
+| Nov 25   | [Productivity](https://docs.google.com/presentation/d/1xOcZWB1_Swk-6j_i37WbxXIFY0kTtaQ3ctiP5p2pp1M/edit#slide=id.g13c62e42db_0_0) 
 | Nov 27 | No class | 
 | <tr><th colspan=4>🎬 &nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;  💯</th></tr> 
-| Dec 2  |  |  |
-| Dec 4  |  |  |
-| Dec 16 | Final Exam (8:00 am -- 11:00 am) | |
-
+| Dec 2  | [Demo](https://docs.google.com/spreadsheets/d/1tjDulwB530qP17txitTggwmCDquytUV5HVNYbFgY2HM/edit?folder=0BzraDEDPx5BcLUtxNWhCVGxJZ3M#gid=0) |  | [REPORT](Project/REPORT.md)
+| Dec 4  | [Demo](https://docs.google.com/spreadsheets/d/1tjDulwB530qP17txitTggwmCDquytUV5HVNYbFgY2HM/edit?folder=0BzraDEDPx5BcLUtxNWhCVGxJZ3M#gid=0) |  |
+| Dec 16 | Final Exam (8:00 am -- 11:00 am)
 
 
 

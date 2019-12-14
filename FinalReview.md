@@ -7,7 +7,7 @@ The following is an example exam.
 
 ### Multiple Choice
 
-1) Which of the following is a component of the Blackboard pattern?  (3 points)
+1) Which of the following is a component of the Blackboard pattern?
 
 - A) routine
 - B) sink
@@ -23,7 +23,7 @@ The following is an example exam.
 - D) npm
 - E) bower
 
-3) Which best describes an issue *not* related to configuration management? (3 points)
+3) Which best describes an issue *not* related to configuration management?
 
 - A) Estimate risk of allowing a customer to configure a feature.
 - B) Audits: Discovery request on changes made to system.
@@ -31,7 +31,7 @@ The following is an example exam.
 - D) Works on my machine, not the customers.
 - E) None of the above
 
-4) Which of the following is *not* a motivation for agile processes?  (3 points)
+4) Which of the following is *not* a motivation for agile processes?
 
 - A) Individuals and interactions over processes and tools.
 - B) Comprehensive documentation over working software.
@@ -55,46 +55,35 @@ The following is an example exam.
 * D) Measure of the proportion of attributes that are “invisible” from other classes or objects
 * E) Degree to which the tasks performed by a single module are functionally related
 
-7) Which deployment practice definition best describes a dark launch?
-
-* A) Release software without any user-facing elements exposed, use flags to turn on in production.
-* B) Start with two identical instances of infrastructure. Deploy beta version on one, stable on other. Switch when ready.
-* C) Stop traffic to node, upgrade node, reroute traffic back, upgrade next node.
-* D) Sample a small amount of traffic, eventually route more traffic if stable.
-* E) B or D
 
 
 ### Short Answer
 
-1. Describe the principle of "Cost of Change is Dead" 
+1) Name and define 2 agile **collary** practices.
 <br/>
 <br/>
 <br/>
 
-2. Explain the difference between docker and ansible.
+2) Name and define 2 confirmation management practices.
 <br/>
 <br/>
 <br/>
 
-3. Describe the principle of "Rule of 3".
+3) Name and define 2 architecture patterns.
 <br/>
 <br/>
 <br/>
 
 ### Scenarios
 
-1. A company wants to increase the responsibility of their development team to include handling testing, staging, and production. They want to reduce communication barriers and team silos separate groups imposes. What team model might be appropriate? 
+1) A team finds it difficult to keep up with what others on their team are doing. What agile practice may help?
 <br/>
 <br/>
 
-2. A company has recently adopted continuous deployment of their product, but has started receiving complaints from their customer that new features are coming too fast and running too slow. What practice would you recommend they adopt to prevent these problems while allowing continuous deployment?
-<br/>
-<br/>
 
-<p style="page-break-after:always;"></p>
 ### Implementation
 
-1) Measure the branch coverage of a code snippet. (10 points)
+1) Measure the condition coverage of a code snippet. (10 points)
 
 **Test suite**:
 
@@ -140,9 +129,10 @@ function weird(x,y,z, mode, results)
 
 2) Write a parser using a simple visitor pattern. 
 
-*You can assume a basic visitor function already exists and provide your own tokens and AST structure you assume exist (feasibly parsed).*
+Assume a visitor exists with this signature: `visit(node, callback)` and AST nodes contain parent information: `node.type`.
 
-A) Count the number of branches in a function. (10 points)
+
+A) Count the number of branches in a function.
 
 - What is number of branches in the above weird function?
 - Parser implementation.
@@ -156,7 +146,7 @@ A) Count the number of branches in a function. (10 points)
 <br/>
 <br/>
 
-B) Count the number of conditions in a function. (10 points)
+B) Count the number of max conditions in a function.
 
 - What is number of conditions in the above weird function?
 - Parser implementation.
@@ -187,7 +177,7 @@ br/>
 <br/>
 
 
-2) Compare and contrast using mocking versus canary releasing. Describe their impact on testing.
+2) Compare and contrast using blackbox testing versus whitebox testing. Describe their impact on testing.
 
 <br/>
 <br/>
